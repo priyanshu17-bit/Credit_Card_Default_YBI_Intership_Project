@@ -1,4 +1,4 @@
-YBI 2 Months Internship Poject
+YBI Internship Poject
 
 Course Name - Artificial Intelligence and Generative AI
 
